@@ -4,8 +4,8 @@ Perl script for Git Prereceive Hook that control access based on branch,user and
 This script is perfect for Atlassian Stash Prereceive Plugin. For other sw you have to customized some variables taken by ENV
 
 ## Parameters
- $1 ACLs rules files: File with the Access Control List
- $2 dryrun: For testing purpose
+ - $1 ACLs rules files: File with the Access Control List
+ - $2 dryrun: For testing purpose
 
 
 ## ACL file format:
